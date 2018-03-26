@@ -1,0 +1,425 @@
+.grid > .search_logo > img {
+  display: none; }
+
+@media (max-width: 1330px) {
+  .grid header .header-nav {
+    margin-left: 17%;
+    width: 100%; } }
+@media (max-width: 1200px) {
+  .grid header .header-nav {
+    margin-left: 17%; }
+    .grid header .header-nav li a {
+      font-size: 12px; }
+  .grid header .cart {
+    top: 6%;
+    right: 8.9%; }
+
+  #contact .contact-form {
+    margin-left: 12.5%; }
+
+  .grid header .product {
+    right: 15%; } }
+/*-------------1110----------------*/
+@media (max-width: 1110px) {
+  .grid header .header-nav {
+    margin-left: 13%; }
+
+  .grid header .header-nav li {
+    margin-right: 15px; }
+
+  .grid .col-1-4 {
+    width: 22.5%; }
+
+  #contact .contact-form {
+    margin-left: 6.5%; }
+
+  .grid .products li .pr_pic {
+    width: 208px; }
+
+  .grid .products li .pr_pic .pic_hov {
+    width: 208px; }
+
+  .grid .products li .pr_pic .pic_hov .to_cart {
+    left: 13%; }
+
+  .grid .products li .pr_pic .pic_hov .more_detail {
+    left: 13%; } }
+@media (max-width: 1020px) {
+  .grid header .header-nav {
+    margin-left: 8%; }
+
+  .grid header .header-nav li {
+    margin-right: 8px; }
+
+  .grid header .description {
+    top: 7%; }
+
+  .grid header .product {
+    right: 8%;
+    top: 17%; }
+
+  #contact .contact-form {
+    margin-left: 2.5%; }
+
+  .grid .col-1-4 {
+    width: 23.5%; } }
+@media (max-width: 990px) {
+  #contact .contact-form {
+    width: 860px;
+    margin-left: 7%; }
+
+  #contact .contact-form #form_name, #contact .contact-form #form_phone, #contact .contact-form #form_activity, #contact .contact-form #form_message {
+    margin-left: 6.7%; }
+
+  #contact .contact-form #activity {
+    top: 51.5%;
+    left: 44%; }
+
+  #contact .contact-form label {
+    right: 10.3%;
+    top: 51.5%; }
+
+  #contact .contact-form .activity_bar {
+    left: 6.7%; }
+
+  .grid header .header-nav li {
+    margin-right: 5px; }
+
+  .footer .otakoi {
+    margin-left: 40%; } }
+@media (max-width: 935px) {
+  .grid .goods {
+    margin-top: 0; }
+
+  #contact .contact-form #form_name, #contact .contact-form #form_phone, #contact .contact-form #form_activity {
+    width: 250px; }
+
+  #contact .contact-form {
+    width: 625px; }
+
+  #contact .contact-form input {
+    width: 270px; }
+
+  #contact .contact-form #form_message {
+    width: 550px; }
+
+  #contact .contact-form {
+    margin-left: 22%; }
+
+  #contact .contact-form #activity {
+    top: 49.5%;
+    left: 42%; }
+
+  #contact .contact-form label {
+    right: 8.3%;
+    top: 49.5%; }
+
+  #contact .contact-form .activity_bar {
+    width: 250px; }
+
+  .grid .products li .pr_pic {
+    width: 195px; }
+
+  .grid .products li .pr_pic .pic_hov {
+    width: 195px; }
+
+  .grid .products li .pr_pic .pic_hov .to_cart {
+    left: 9%; }
+
+  .grid .products li .pr_pic .pic_hov .more_detail {
+    left: 9%; }
+
+  .grid header .logo {
+    width: 145px;
+    left: 21.6%; }
+
+  .grid header .header-nav {
+    margin-left: 3%;
+    width: 110%; }
+
+  .grid .col-1-4 {
+    width: 50%;
+    margin-bottom: 2%; }
+
+  .grid .products li .pr_pic {
+    width: 80%; }
+
+  .grid .products li .pr_pic .pic_hov {
+    width: 100%; }
+
+  .grid .products li .pr_pic .pic_hov .to_cart {
+    left: 25%; }
+
+  .grid .products li .pr_pic .pic_hov .more_detail {
+    left: 25%; }
+
+  .grid .products li .pr_name {
+    margin-top: 2.5%; } }
+@media (max-width: 850px) {
+  .grid header .description {
+    top: 6%;
+    left: 18.5%; }
+
+  .grid header .detail {
+    left: 18.5%; }
+
+  .grid header .product {
+    width: 40%; }
+
+  .grid header .cart {
+    right: 2.9%; }
+
+  .grid header .header-nav li a {
+    font-size: 10px; }
+
+  .grid header .header-nav {
+    margin-left: 10%; }
+
+  .footer .otakoi {
+    margin-left: 25%; } }
+@media (max-width: 780px) {
+  #contact .contact-form {
+    margin-left: 11%; }
+
+  .grid .products li .pr_pic .pic_hov .to_cart {
+    width: 61%;
+    font-size: 12px; }
+
+  .grid .products li .pr_pic .pic_hov .more_detail {
+    width: 61%;
+    font-size: 12px; }
+
+  .grid header .logo {
+    margin-top: 31%;
+    width: 118px; }
+
+  .grid header .header-nav {
+    margin-left: 1%;
+    margin-top: 13%;
+    width: 125%; } }
+@media (max-width: 710px) {
+  .grid header .personal-nav {
+    display: none; }
+
+  .grid header .cart {
+    top: 1%; }
+
+  .grid header .header-nav {
+    width: 140%; }
+
+  .grid > .search_logo > img {
+    display: block;
+    position: absolute;
+    right: 20%;
+    z-index: 10;
+    top: 2.5%; }
+
+  #contact .contact-form {
+    width: 560px;
+    height: 480px; }
+
+  #contact .contact-form input {
+    width: 200px; }
+
+  #contact .contact-form #form_name, #contact .contact-form #form_phone, #contact .contact-form #form_activity {
+    width: 200px; }
+
+  #contact .contact-form #form_message {
+    width: 430px; }
+
+  #contact .contact-form #form_submit {
+    margin-top: 0;
+    margin-left: 33.2%; }
+
+  #contact .contact-form {
+    margin-left: 9%; }
+
+  #contact .contact-form #activity {
+    top: 55.5%;
+    left: 42%; }
+
+  #contact .contact-form label {
+    right: 16.3%;
+    top: 55.5%; }
+
+  #contact .contact-form #form_name, #contact .contact-form #form_phone, #contact .contact-form #form_activity, #contact .contact-form #form_message {
+    margin-left: 10.7%; }
+
+  #contact .contact-form .activity_bar {
+    margin-left: 4%;
+    width: 200px; }
+
+  .footer .otakoi {
+    margin-left: 12%; } }
+@media (max-width: 620px) {
+  #contact .contact-form {
+    width: 420px;
+    height: 600px; }
+
+  #contact .contact-form input {
+    width: 260px;
+    margin-left: 10.4%; }
+
+  #contact .contact-form #form_name, #contact .contact-form #form_phone, #contact .contact-form #form_activity {
+    width: 260px; }
+
+  #contact .contact-form .form_name {
+    margin-bottom: 20px; }
+
+  #contact .contact-form #form_activity {
+    display: none; }
+
+  #contact .contact-form #activity {
+    display: none; }
+
+  #contact .contact-form #form_message {
+    width: 260px; }
+
+  #contact .contact-form label {
+    right: 23.3%;
+    top: 60.5%; }
+
+  #contact .contact-form #form_name, #contact .contact-form #form_phone, #contact .contact-form #form_activity, #contact .contact-form #form_message {
+    margin-left: 17.7%; }
+
+  #contact .contact-form input {
+    margin-left: 17.4%; }
+
+  #contact .contact-form {
+    margin-left: 19.9%; }
+
+  .footer .footer_copy, .footer .otakoi {
+    font-size: 11px; }
+
+  .footer .otakoi img {
+    margin-left: 14px; }
+
+  .grid .products li .pr_pic {
+    width: 85%; }
+
+  .grid header .description .topic {
+    font-size: 27px; }
+
+  .grid header .detail {
+    left: 14.5%;
+    width: 160px;
+    top: 64.5%; }
+
+  .grid header .product {
+    width: 35%; }
+
+  .grid .goods {
+    margin-top: -100px; }
+
+  .grid header .slider-wrapper {
+    height: 590px; }
+
+  .grid header .slider {
+    height: 507px; }
+
+  .grid header {
+    height: 680px; }
+
+  .grid header .logo {
+    display: none; }
+
+  .grid header .header-nav {
+    margin-top: 16%;
+    width: 175%; } }
+@media (max-width: 550px) {
+  #contact .contact-form {
+    margin-left: 11.9%; }
+
+  .grid .col-1-4 {
+    width: 100%; } }
+@media (max-width: 510px) {
+  .grid header .header-nav {
+    display: none; }
+
+  .grid > .search_logo > img {
+    right: 22%;
+    z-index: 100; }
+
+  .grid header .cart {
+    background-color: transparent; }
+
+  .grid header .cart {
+    z-index: 100; }
+
+  .grid header .description {
+    left: 3.5%;
+    width: 95%; }
+
+  .grid header .description .topic {
+    text-align: center; }
+
+  .grid header .description .mini-description {
+    text-align: justify;
+    width: 97%; }
+
+  .grid header .product {
+    right: 28%;
+    top: 33%; }
+
+  .grid header .detail {
+    left: 31.5%;
+    top: 76.5%; }
+
+  #contact #angle-up {
+    bottom: 0%; }
+
+  .grid .col-1-2 {
+    width: 100%; }
+
+  .footer .footer_copy, .footer .otakoi {
+    margin-top: 10%;
+    margin-left: 0%;
+    text-align: center; }
+
+  .footer .footer_copy, .footer .otakoi {
+    margin-top: 0; }
+
+  #contact .contact-form #form_name, #contact .contact-form #form_phone, #contact .contact-form #form_activity {
+    width: 88%; }
+
+  #contact .contact-form {
+    width: 120%;
+    margin-left: 4%;
+    margin-bottom: 21%; }
+
+  #contact .contact-form input {
+    width: 67%; }
+
+  #contact .contact-form #form_message {
+    width: 88; }
+
+  #contact .contact-form #form_submit {
+    width: 60%;
+    margin-left: 21%; }
+
+  #contact .contact-form #form_name, #contact .contact-form #form_phone, #contact .contact-form #form_activity, #contact .contact-form #form_message {
+    margin-left: 6%; }
+
+  #contact .contact-form input {
+    margin-left: 6%;
+    width: 88%; }
+
+  #contact .contact-form #form_name, #contact .contact-form #form_phone, #contact .contact-form #form_activity, #contact .contact-form #form_message {
+    width: 88%; }
+
+  .grid > .search_logo > img {
+    right: 26%; }
+
+  #contact .contact-form #form_organise,
+  #contact .contact-form #form_date {
+    display: none; }
+
+  #contact .contact-form {
+    height: 435px; }
+
+  #contact .contact-form label {
+    display: none; }
+
+  #contact .contact-form #form_submit {
+    width: 88%;
+    margin-left: 6%; } }
